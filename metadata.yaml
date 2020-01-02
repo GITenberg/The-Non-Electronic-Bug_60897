@@ -1,5 +1,5 @@
 _repo: The-Non-Electronic-Bug_60897
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Morrow, Gray
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '47191'
     url: http://www.gutenberg.org/2009/agents/47191
     wikipedia: https://en.wikipedia.org/wiki/Gray_Morrow
+covers:
+- cover_type: archival
+  image_path: 60897-h/images/cover.jpg
 creator:
   author:
     agent_name: Mittleman, E.
     gutenberg_agent_id: '51178'
     url: http://www.gutenberg.org/2009/agents/51178
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60897#The-Non-Electronic-Bug
 gutenberg_issued: '2019-12-10'
 gutenberg_type: Text
 identifiers:
